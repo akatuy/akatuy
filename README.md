@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+趣味の司法試験
 <!--
 **akatuy/akatuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
